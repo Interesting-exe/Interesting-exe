@@ -1,4 +1,4 @@
-<img align="left" height="180" src="https://c.tenor.com/Bpbu2-YNL6cAAAAS/hacker-pupper-dog.gif"/>
+<img align="left" height="190" src="https://c.tenor.com/Bpbu2-YNL6cAAAAS/hacker-pupper-dog.gif"/>
 
 ```diff
 Im Interesting
