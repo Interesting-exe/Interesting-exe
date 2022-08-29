@@ -1,7 +1,5 @@
 <img align="left" height="200" src="https://c.tenor.com/Bpbu2-YNL6cAAAAS/hacker-pupper-dog.gif"/>
 
-### Hello
-
 ```diff
 Im Interesting
 
