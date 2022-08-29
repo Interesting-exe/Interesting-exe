@@ -8,5 +8,6 @@ Im Interesting
 - currently studying c++ and networks and im also fucking around with cumcord
 @@game dev and software engineer.@@
 # computer science student
+C#, C++, Java, Javascript, Python, Squirrel
 
 ```
