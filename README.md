@@ -2,6 +2,7 @@
 
 ```diff
 Im Interesting
+
 + 17 years old
 ! I study whatever i find interesting at the moment
 - currently studying c++ and networks and fucking around with cumcord
