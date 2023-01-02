@@ -5,7 +5,7 @@ Im Interesting
 
 + 17 years old from israel
 ! I study whatever i find interesting at the moment
-- currently studying c++ and fucking around with fabricmc
+- currently studying c++
 @@game dev and software engineer.@@
 # computer science student
 C#, C++, Java, Javascript, Python, Squirrel
