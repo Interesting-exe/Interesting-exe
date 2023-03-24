@@ -3,7 +3,7 @@
 ```diff
 Im Interesting
 
-+ 17 years old from israel
++ 18 years old from israel
 ! I study whatever i find interesting at the moment
 - currently studying c++
 @@game dev and software engineer.@@
