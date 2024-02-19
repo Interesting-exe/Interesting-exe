@@ -8,6 +8,6 @@ Im Interesting
 - currently studying c
 @@software engineer.@@
 # computer science student
-C#, C++, Java, Javascript, Python
+C, C#, C++, Java, Javascript, Python
 
 ```
