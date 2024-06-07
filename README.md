@@ -13,5 +13,5 @@ C, C#, C++, Java, Javascript, Python
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; top: 12vh; left: 25vh; height: 200px; object-fit: contain; width: 400px; opacity: 1; background: url('https://raw.githubusercontent.com/Interesting-exe/Interesting-exe/main/tenor.gif'); background-repeat: no-repeat; background-size: cover]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; top: 12vh; left: 25vh; height: 300px; object-fit: contain; width: 300px; opacity: 1; background: url('https://raw.githubusercontent.com/Interesting-exe/Interesting-exe/main/tenor.gif'); background-repeat: no-repeat; background-size: cover]{x0000}$}
 ```
